@@ -22,5 +22,13 @@
         "email":"vipul07.mathuria@gmail.com",
         "github_link":"https://github.com/vipul1999",
         "linkedIn_link":"https://www.linkedin.com/in/vipulkrishna/"
-    }
+    },
+        {
+        "name":"Arpit Upadhyay",
+        "role":"contributor",
+        "profile_pic":"../assets/team/arpit.jpg",
+        "email":"arpit.au.upadhyay@gmail.com",
+        "github_link":"https://github.com/ausome197",
+        "linkedIn_link":""
+    },
 ]
