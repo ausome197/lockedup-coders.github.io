@@ -71,5 +71,19 @@
   "email": "arpit.au.upadhyay@gmail.com",
   "github_link": "https://github.com/ausome197",
   "linkedIn_link": ""
- }
+ },{
+    "name": "Hayat Tamboli",
+    "role": "contributor",
+    "profile_pic": "hayat.jpg",
+    "email": "hayat.tamboli@gmail.com",
+    "github_link": "hayat-tamboli",
+    "linkedIn_link": "hayat-tamboli"
+  },{
+    "name": "Sourav Paul",
+    "role": "contributor",
+    "profile_pic": "sourav.jpeg",
+    "email": "souravpaul@protonmail.com",
+    "github_link": "souravpaul8",
+    "linkedIn_link": "souravpaul8"
+  }
 ]
